@@ -1,0 +1,4 @@
+['remote "BASKETBALL"']
+url = s3://jvolz-dataiku/dvc/BASKETBALL
+[core]
+remote = BASKETBALL
