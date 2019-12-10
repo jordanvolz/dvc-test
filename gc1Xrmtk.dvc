@@ -1,0 +1,7 @@
+md5: a6754f9c35af5456ddee8fcc4a9f845c
+outs:
+- md5: 0dd34844ecbfa376e59a26e19c78c451.dir
+  path: gc1Xrmtk
+  cache: true
+  metric: false
+  persist: false
